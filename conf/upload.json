@@ -1,0 +1,8 @@
+{
+  "fileToUpload": "待上传的视频文件",
+  "filePath": "文件的相对路径目录, 不能超过10级子目录",
+  "videoMaxSize": "100M",
+  "vidoeAllowFiles": [
+    ".mp4"
+  ]
+}
